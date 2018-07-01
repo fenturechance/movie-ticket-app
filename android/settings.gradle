@@ -1,0 +1,3 @@
+rootProject.name = 'movieTicket2'
+
+include ':app'
